@@ -1,0 +1,787 @@
+<div class="fui-Flex ___49hzo90 f22iagw f1vx9l62 fly5x3f f1hu3pq6 f19f4twv fcgxt0o f10pi13n fcrkhtb"
+    data-tid="closed-caption-v2-virtual-list-content">
+    <div class="ui-box ___il95ts0 f1yrx710 f1l02sjl f1115ve7 f1oy3dpc f5zp4f fp1ilsu f1uhpfwc fpk1gq1 f1kqvf3g f1gobicx fl27ibc f8k3ltm f1qrc9k7 f1sbbt1r f1i212ye f1vsk708"
+        tabindex="0">
+        <div class="fui-Flex ___1v52uhs f22iagw f1vx9l62 fbhxue7 f10pi13n fan4evk">
+            <div class="fui-Primitive">
+                <div style="position: absolute; min-height: 5px; bottom: 0px; left: 0px; right: 0px;"></div>
+                <div class="fui-Primitive ___6spbtv0 f1euv43f f15twtuk ff37pk3 f1vgc2s3 f1e31b4d f19g0ac"
+                    data-testid="virtual-list-loader"></div>
+                <div class="fui-Primitive vl-buffer ___13nyo3f fi4v0vl f1mxdql8" data-testid="vl-placeholders"
+                    style="min-height: 31299px;"></div>
+                <div class="fui-Flex ___4kgxud0 f22iagw f1vx9l62 fly5x3f ftrb29c fi4v0vl">
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-582"><span role="presentation"
+                                                id="avatar-rt6" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci">
+                                                <span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi">
+                                                    <span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航
+                                                    </span>
+                                                </span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">嗯嗯。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-583"><span role="presentation"
+                                                id="avatar-rt7" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">好了。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-584"><span role="presentation"
+                                                id="avatar-rt8" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">好了，晚安，明天再见，嗯？</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-585"><span role="presentation"
+                                                id="avatar-rt9" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">晚安，明天再见，嗯，下期。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-586"><span role="presentation"
+                                                id="avatar-rta" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">我这边已经12点了拜拜。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-587"><span role="presentation"
+                                                id="avatar-rtb" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">嗯，我这边已经12点了拜拜。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-588"><span role="presentation"
+                                                id="avatar-rtc" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">那你生物钟。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-589"><span role="presentation"
+                                                id="avatar-rtd" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">哇，你生物钟。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-590"><span role="presentation"
+                                                id="avatar-rte" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">喂，能听到吗？</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-591"><span role="presentation"
+                                                id="avatar-rtf" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">喂，能听到吗？</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-592"><span role="presentation"
+                                                id="avatar-rtg" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">我觉得能听到吗？</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-593"><span role="presentation"
+                                                id="avatar-rth" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">我说能听到吗？</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-594"><span role="presentation"
+                                                id="avatar-rti" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">嗯。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-595"><span role="presentation"
+                                                id="avatar-rtj" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">嗯。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-596"><span role="presentation"
+                                                id="avatar-rtk" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">嗯。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-597"><span role="presentation"
+                                                id="avatar-rtl" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">嗯，不对啊。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-598"><span role="presentation"
+                                                id="avatar-rtm" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">嗯，不对啊。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-599"><span role="presentation"
+                                                id="avatar-rtn" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">不对，复制一下。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fui-Flex ___1ccp5kb f22iagw f1vx9l62">
+                        <div class="fui-Flex ___1azgi2u f22iagw fly5x3f f1l02sjl f9h729m f1o700av f1r2v9sp">
+                            <div class="fui-Flex ___1fa4cgz f22iagw fly5x3f">
+                                <div
+                                    class="fui-ChatMessageCompact ___1hvcg53 f13qh94s fbxddng f199r4r4 fp9bwmr fly5x3f fzktbb8">
+                                    <div></div>
+                                    <div
+                                        class="fui-ChatMessageCompact__avatar ___1rznpgg fecyhq9 f22iagw f1a7i8kp fmnzpld">
+                                        <div class="___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget container-160"
+                                            data-tid="closed-captions-v2-items-renderer"
+                                            data-lpc-hover-target-id="lpc-react-target-600"><span role="presentation"
+                                                id="avatar-rto" class="fui-Avatar r81b29z"><img role="presentation"
+                                                    aria-hidden="true"
+                                                    src="https://teams.live.com/api/mt/beta/users/8:live:xxh200812345/profilepicturev2?displayname=%E8%82%96%20%E5%85%88%E8%88%AA&amp;imageUri=https%3A%2F%2Fsubstrate.office.com%2Fprofile%2Fv1.0%2Fusers%2Fcid%3A93138008493170BA%2Fimage%2F%24value%3FhashKey%3D''&amp;size=HR64x64&amp;ts=1750602137099"
+                                                    draggable="false"
+                                                    class="fui-Avatar__image r136dc0n ___e0vg630 f11d4kpn f18f03hv f1ps3kmd"></span>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                    <div data-is-focusable="false" tabindex="0"
+                                        class="fui-ChatMessageCompact__body ___obvo930 fxn1s5j f10pi13n ftqa4ok f8hki3x f1d2448m f1bjia2o ffh67wi f1j6vpng f1pniga2 f987i1v f1ffjurs f15bsgw9 f14e48fq f18yb2kv fd6o370 ffwy5si f3znvyf fs7emcb f1hfv171 f3dpcic f1bhh0nq fk6fouc figsok6 fkhj508 f19n0e5 f9ijwd5 ff3glw6 f19lj068 f1cnd47f f1wtvaye f8zmjen f22iagw f4akndk f1cio4g9 fr5p8z f5wi2c0 f1fn3ajz fkcilmh"
+                                        data-tabster="{&quot;groupper&quot;:{&quot;tabbability&quot;:2},&quot;focusable&quot;:{}}">
+                                        <div class="___1ncq67y fly5x3f fqtknz5 fkhj508 f1oy3dpc">
+                                            <div class="___1vxs6w3 f1guyajx f22iagw fni485r f4px1ci"><span
+                                                    class="fui-ChatMessageCompact__author ___g4mekn0 fl43uef f19n0e5 fp9qr7p f1i3iumi"><span
+                                                        dir="auto" data-tid="author"
+                                                        class="fui-StyledText ___1f3w78g fy9rknc fwrc4pm f1g3rb7p">肖
+                                                        先航</span></span></div>
+                                            <div
+                                                class="fui-Flex ___1fyii9h f22iagw f1g3rb7p f1h3a8gf f1o700av f1r2v9sp">
+                                                <span dir="auto"
+                                                    class="fui-StyledText ___cyjq0y0 fod5ikn faaz57k f1smnis7 f1u2lo7a"
+                                                    data-tid="closed-caption-text">不对，复制一下。</span></div>
+                                        </div>
+                                    </div><i tabindex="0" role="none" data-tabster-dummy="" aria-hidden="true"
+                                        style="position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 0px; left: 0px;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="fui-Primitive vl-buffer ___1loozqp fi4v0vl f15lhq9l" data-testid="vl-placeholders"
+                    style="min-height: 0px;"></div>
+                <div class="fui-Primitive ___5iyjhn0 f1euv43f f8ovrd7 f1yab3r1 f1vgc2s3 f1e31b4d f19g0ac"
+                    data-testid="virtual-list-loader"></div>
+                <div class="fui-Primitive ___ml05g00 f1aehjj5 f3rmtva f1euv43f f1vgc2s3 f1e31b4d f15twtuk f1yab3r1 fruyk1d"
+                    style="pointer-events: none;"></div>
+            </div>
+        </div>
+    </div>
+</div>

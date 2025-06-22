@@ -1,0 +1,13 @@
+teams:
+  url: "https://teams.live.com/meet/9361118592033?p=aYlqt4GMv5KZmgkJGh"
+  captions_file: "output/captions_20250622_1340.txt"
+  fetch_interval: 5
+  xpath:
+    list: ".//div[@data-tid='closed-caption-v2-virtual-list-content']"
+    author: ".//span[@data-tid='author']"
+    text: ".//span[@data-tid='closed-caption-text']"
+
+openai:
+  url: "https://chat.openai.com/"
+  translated_file: "output/captions_zh_20250622_1340.txt"
+  translation_interval: 10

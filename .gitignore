@@ -1,0 +1,36 @@
+# Python 编译
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境
+.env/
+.venv/
+venv/
+env/
+
+# IDE & 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 输出目录
+output/
+*.log
+
+# 打包生成物
+build/
+dist/
+*.spec
+
+# 安装缓存
+.eggs/
+*.egg-info/
+
+# Windows/Mac 临时文件
+Thumbs.db
+.DS_Store
+
+# WebDriver 缓存
+~/.wdm/

@@ -5,3 +5,5 @@
 ### 技术点
 1. selenium
 2. python打包工具 cx_Freeze
+
+& "$env:USERPROFILE\AppData\Roaming\Python\Python312\Scripts\pipreqs.exe" . --force

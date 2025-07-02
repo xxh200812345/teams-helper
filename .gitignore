@@ -34,3 +34,6 @@ Thumbs.db
 
 # WebDriver 缓存
 ~/.wdm/
+
+drivers/
+teams-helper-venv/

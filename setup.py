@@ -7,7 +7,10 @@ setup(
     executables=[Executable("main.py")],
     options={
         "build_exe": {
-            "include_files": ["settings.yaml"],
+            "include_files": [
+                ("settings.yaml", "settings.yaml"),
+                ("drivers/edge/msedgedriver.exe", "drivers/edge/msedgedriver.exe")
+            ],
         }
-    }
+    },
 )

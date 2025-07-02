@@ -1,7 +1,7 @@
 teams:
   url: "https://teams.live.com/meet/9361118592033?p=aYlqt4GMv5KZmgkJGh"
-  captions_file: "output/captions_20250622_1340.txt"
-  fetch_interval: 5
+  captions_file: "output/captions_{timestamp}.txt"
+  fetch_interval: 1
   xpath:
     list: ".//div[@data-tid='closed-caption-v2-virtual-list-content']"
     author: ".//span[@data-tid='author']"
@@ -9,5 +9,9 @@ teams:
 
 openai:
   url: "https://chat.openai.com/"
-  translated_file: "output/captions_zh_20250622_1340.txt"
-  translation_interval: 10
+  config["openai"]["translated_file"]: "output/captions_zh_{timestamp}.txt"
+  translation_interval: 5
+
+driver:
+  edge:
+    executable_path: "drivers/edge/msedgedriver.exe"
